@@ -1,0 +1,39 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Articolo politico sul governo spagnolo e la questione dell'intervento</title>
+        <author>Anonimo</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Testata non specificata</publisher>
+        <pubPlace>[Luogo non identificato]</pubPlace>
+        <date when="1848">1848 circa</date>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">Public Domain</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="a">Articolo politico sull'intervento spagnolo</title>
+          <date when="1848">1848 circa</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <facsimile>
+    <graphic url="download (2).png"/>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="article">
+        <head>Il governo spagnolo e gli interventi</head>
+        <p>Il ministro sig. Pidal condanna gl’interventi, riconosce il diritto che ha ogni popolo di costituirsi liberamente: anzi in ciò va più lungi dei suoi oppositori. Ci permetta il Ministro, in questo proposito, di dubitare della saldezza della sua fede. Se le sue dottrine fossero tanto assolute, come si addita la sua perorazione, non userebbero un sì aperto linguaggio i periodici a lui devoti: non leverebbero a cielo l’intervento della Prussia negli stati indipendenti della Germania; non celebrerebbero ogni dì l’invasione delle orde cosacche nell’eroica Ungheria. Vero è che il sig. Pidal smentisce dalla tribuna il linguaggio dei giornali ministeriali. Il ministro dice che il governo spagnuolo aborrisce gl’interventi. Li aborrisce, e nel tempo stesso interviene!</p>
+
+        <p>Per uscire di questa contraddizione si getta a quei pretesti; a quelle uscite diplomatiche, con cui soglion tergiversarsi i principi e coponestarsi le grandi ingiustizie. Perciò si vede costretto ad inventare un nuovo sistema, a ricostruire l’edifizio del diritto internazionale. Secondo l’ipotesi stabilita dal ministro, il diritto d’intervento non esiste; è una usurpazione del forte contro la indipendenza nazionale. Però, dice il ministro, vi ha una eccezione; eccezione singolare, unica, senza esempio!</p>
+      </div>
+    </body>
+  </text>
+</TEI>

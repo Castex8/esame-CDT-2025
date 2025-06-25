@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Cartolina a Vittorio Pepe a Pescara</title>
+        <author>Mittente sconosciuto</author>
+      </titleStmt>
+      <publicationStmt>
+        <distributor>Collezione privata / Archivio storico</distributor>
+        <availability>
+          <licence target="http://rightsstatements.org/vocab/NoC-OKLR/1.0/">No Copyright - Other Known Legal Restrictions</licence>
+        </availability>
+        <date when="1905-08-26">26 agosto 1905</date>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <repository>Archivio digitale TEI</repository>
+            <idno>Cartolina n. 326</idno>
+          </msIdentifier>
+          <physDesc>
+            <p>Cartolina postale manoscritta con affrancatura da dieci centesimi. Timbro postale "PRATO IN TOSCANA", indirizzata a Vittorio Pepe a Pescara.</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <facsimile>
+    <graphic url="download (1).png"/>
+  </facsimile>
+
+  <text>
+    <body>
+      <div type="postcard">
+        <opener>
+          <dateline>
+            <placeName>Prato (Toscana)</placeName>, 
+            <date when="1905-08-26">26 agosto 1905</date>
+          </dateline>
+          <salute>Al Signore</salute>
+        </opener>
+
+        <p>Vittorio Pepe  
+        (Abruzzi)  
+        Pescara</p>
+      </div>
+    </body>
+  </text>
+</TEI>
